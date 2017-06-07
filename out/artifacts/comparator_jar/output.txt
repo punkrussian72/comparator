@@ -1,0 +1,7 @@
+File 'what' contains following strings from 'with' file:
+12
+212
+File 'what' doesn't contain following strings from 'with' file:
+ewedas; sad
+sads 
+sadassdasdassa
